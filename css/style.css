@@ -1,0 +1,13 @@
+#cuerpo{background-color: aquamarine;text-align: center;}
+#fondo-sobremi{background-color: lawngreen;}
+h1 {background-image: url(/img/avion-fondo.jpg);height: 350px;}
+#imagen-mia{text-align: center;}
+.sangria-carrera{text-indent: 80px}
+.Fechas{font-weight: bold;}
+.Tipografia{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#titulo{text-align: center;
+font-size: 50px;}
+#flecha{text-align: center;
+}
+.texto{text-align: center; font-size: x-large;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: bold;}
+#volver{font-size: larger;}
